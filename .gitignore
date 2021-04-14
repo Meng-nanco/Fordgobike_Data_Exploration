@@ -131,3 +131,4 @@ dmypy.json
 .DS_Store
 data/
 fordgobike_2019.pkl
+fordgobike_2019_clean.pkl
