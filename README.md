@@ -33,3 +33,6 @@ Finally, the distribution of total duration time for a year are presented with g
 
 **The command for creating a slide deck with Jupyter in terminal:**
 `jupyter nbconvert ford_gobike_slides.ipynb --to slides --post serve --no-input --no-prompt`
+
+### License
+The content of this repository is licensed under a [MIT License](https://github.com/Meng-nanco/Fordgobike_Data_Exploration/blob/main/LICENSE).
