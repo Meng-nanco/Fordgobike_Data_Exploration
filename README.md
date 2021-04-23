@@ -31,5 +31,5 @@ Afterwards, I use point plots to introduce the patterns related to duration time
 
 Finally, the distribution of total duration time for a year are presented with geological coordinates(using 2D histogram plot), with hours and days of a week, and with user types(using heatmaps).
 
-**The commend for creating a slide deck with Jupyter in terminal:**
+**The command for creating a slide deck with Jupyter in terminal:**
 `jupyter nbconvert ford_gobike_slides.ipynb --to slides --post serve --no-input --no-prompt`
